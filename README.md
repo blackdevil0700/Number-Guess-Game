@@ -53,7 +53,8 @@ A simple **Number Guessing Game** built using **HTML, CSS, and JavaScript**, whe
 
 ## 🖥️ Screenshots
 
-> *(Add screenshots here once your UI is complete for your GitHub or documentation)*
+> ![image](https://github.com/user-attachments/assets/9ea17dfa-3d0c-43a9-a443-7f0074044824)
+
 
 ---
 
