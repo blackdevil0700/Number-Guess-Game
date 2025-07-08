@@ -1,6 +1,4 @@
-Here is **clean, beginner-friendly, professional README content** for your **Number Guessing Game**:
 
----
 
 # 🎮 Number Guessing Game
 
