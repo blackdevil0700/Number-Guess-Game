@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+    color: rgb(255, 157, 65);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    font-size: 1.5rem;
+}
+#guessField{
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(253, 186, 3);
+    border-radius: 20px;
+    border: 3px solid rgb(255, 115, 0);
+    color: black;
+    font-size: 1.2rem;
+    font-weight: bold;
+    width: 150px;
+}
+#subt{
+    padding: 15px;
+    background-color: rgb(253, 186, 3);
+    color: black;
+    border: none;
+    cursor: pointer;
+    border: 3px solid rgb(255, 115, 0);
+    border-radius: 20px;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+#subt:hover{
+    color: rgb(0, 0, 0);
+    box-shadow: 0px 0px 20px rgb(255, 115, 0);
+    transition: ease-in 0.1s;
+    transform: scale(1.1);
+}
+h2#new-game{
+    cursor: pointer;
+    border: 3px solid rgb(255, 115, 0);
+    padding: 10px;
+    border-radius: 20px;
+}
+h2#new-game:hover{
+    color: rgb(255, 157, 65);
+    box-shadow: 0px 0px 20px rgb(255, 115, 0);
+    transition: ease-in 0.1s;
+    transform: scale(1.1);
+}
