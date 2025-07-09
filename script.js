@@ -1,5 +1,5 @@
 const numInput = document.querySelector(".guessField");
-const submit = document.querySelector("#subt");
+const submit = document.querySelector(".guessSubmit");
 const guessSlot = document.querySelector(".prev-guess");
 const lastResult = document.querySelector(".guesses-remaining");
 const lowOrHi = document.querySelector(".low-or-high");
