@@ -19,7 +19,7 @@ body{
     font-weight: bold;
     width: 150px;
 }
-#subt{
+.guessSubmit{
     padding: 15px;
     background-color: rgb(253, 186, 3);
     color: black;
